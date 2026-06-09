@@ -166,8 +166,6 @@ curl http://localhost:8080
 
 ## 9. Push Code to GitHub
 
-Check my github repo for this task - [omkarsharma2821](https://github.com/omkarsharma2821)
-
 Initialize Git and push code:
 
 ```bash
