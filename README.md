@@ -125,22 +125,9 @@ docker run -d -p 8080:8080 --rm node-app
 * Useful for temporary/testing containers
 
 
-## 7. Test Using curl
 
-```bash
-curl http://localhost:8080
-```
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4kubj59fa3vovhn8kr2n.png)
 
-> curl is a command-line tool used to transfer data to and from a server using URLs.
-
-Expected output:
-
-```plaintext
-Hello from the server!
-```
-
-## 8. Create Docker Compose File
+## 7. Create Docker Compose File
 
 Create `docker-compose.yml`:
 
